@@ -34,7 +34,7 @@ class SQRServiceTest {
     void shouldSqrtDistNegative() {
         SQRService service = new SQRService();
 
-        int expected = 9;
+        int expected = 13;
         int minSet = 20;
         int maxSet = 300;
 
